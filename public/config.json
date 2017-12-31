@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-       "applicationExtensionKey": "e2c58a2a-52a9-41cf-9e8d-5936127d68a4",
+       "applicationExtensionKey": "5bIjQfhUTZyMWq0dFMBmMJVMxmdxVEZODOnWcA1F4GX8pfdDrm2rGDSL3RtvbHZTdj_Nf3vVl2WJETaeUIiKQxpdCkC5V8JDyeUtbmE57cNDzpA5eLlHt7TaHxWjKwucUQxd_vK7BXfnZSXFuI5s0-pd1Buv69ldI8vI4N_uwlbE7w8I4CMKjO5aTv2JOiOn1tKwVXYCiSEZGYmAiluJnPGAFLf6ILuDPayPC6VnmOQ3_qeQehdMCp9YmGU7rg2",
        "save": {
            "url": "https://jb-gcorreia.herokuapp.com/save"
        },
