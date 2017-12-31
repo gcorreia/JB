@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-       "applicationExtensionKey": "e2c58a2a-52a9-41cf-9e8d-5936127d68a4",
+       "applicationExtensionKey": "",
        "save": {
            "url": "https://jb-gcorreia.herokuapp.com/save"
        },
